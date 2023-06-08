@@ -8,6 +8,8 @@
     "scripts": {
         "test": "TEST=true mocha examples/tests",
         "start": "node scripts/runStart",
+        "setProxy": "node scripts/runSetProxy",
+        "deployMainCode": "node scripts/runDeployMainCode",
         "deploy": "node scripts/runDeploy",
         "execute": "node scripts/runExecute",
         "setup": "node scripts/runSetupEnv",
