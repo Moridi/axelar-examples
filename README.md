@@ -64,6 +64,12 @@ npm run start
 
 Leave this node running on a separate terminal before deploying and testing the dApps.
 
+## Deploy Glue and Call Function
+Make sure to do this part after running the local chains
+```bash
+./run.sh
+```
+
 ## Examples
 
 -   [Evm Examples](/examples/evm/)
